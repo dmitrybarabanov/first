@@ -2,3 +2,5 @@ hello world
 hello everybody
 
 update class.txt TEST MERGE
+
+this is true
